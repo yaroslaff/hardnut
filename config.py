@@ -1,0 +1,7 @@
+config = {
+    'SESSION_TYPE': 'redis',
+    'PERMANENT_SESSION_LIFETIME': 86400,
+    'SESSION_COOKIE_SAMESITE': 'Lax',
+    'SESSION_COOKIE_SECURE': True
+}
+

@@ -1,0 +1,7 @@
+- logout
+- return url in parameters
+- put/delete
+- notebook example app
+- проверить без make_response
+- все в отдельную js либу
+
